@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ToggleButton
+                android:id="@+id/toggleButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="1"
+                android:textOn="1" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="2"
+                android:textOn="2" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="3"
+                android:textOn="3" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOn="4"
+                android:textOff="4" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="5"
+                android:textOn="5" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="6"
+                android:textOn="6" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton7"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="7"
+                android:textOn="7" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="8"
+                android:textOn="8" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="9"
+                android:textOn="9" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="10"
+                android:textOn="10" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ToggleButton
+                android:id="@+id/toggleButton11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="11"
+                android:textOn="11" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="12"
+                android:textOn="12" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="13"
+                android:textOn="13" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton14"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="14"
+                android:textOn="14" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton15"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="15"
+                android:textOn="15" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton16"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="16"
+                android:textOn="16" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton17"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="17"
+                android:textOn="17" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton18"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="18"
+                android:textOn="18" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="19"
+                android:textOn="19" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton20"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="20"
+                android:textOn="20" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <ToggleButton
+                android:id="@+id/toggleButton21"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="21"
+                android:textOn="21" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton22"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="22"
+                android:textOn="22" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton23"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="23"
+                android:textOn="23" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton24"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="24"
+                android:textOn="14" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="25"
+                android:textOn="25" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton26"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="26"
+                android:textOn="26" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton27"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="27"
+                android:textOn="27" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton28"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="28"
+                android:textOn="28" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton29"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="29"
+                android:textOn="29" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton30"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="ToggleButton"
+                android:textOff="30"
+                android:textOn="30" />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textProgress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="progress : * / *"
+            android:textSize="30dp" />
+
+        <SeekBar
+            android:id="@+id/seekBarProgress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:foregroundGravity="center"
+            android:text="Hello Shua!"
+            android:textSize="20dp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center" />
+
+        <ToggleButton
+            android:id="@+id/autoModeToggle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textOn="Auto Mode On"
+            android:textOff="Auto Mode Off"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="center_horizontal" />
+
+
+
+        <Button
+            android:id="@+id/startBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="initTTS"
+            android:text="Start" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+
+        <Button
+            android:id="@+id/btnRepeat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="onClickRepeat"
+            android:text="Repeat" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+
+        <TextView
+            android:id="@+id/textViewString"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="-"
+            android:textSize="30dp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="30dp" />
+
+        <Button
+            android:id="@+id/btnShow"
+            android:layout_width="match_parent"
+            android:layout_height="145dp"
+            android:onClick="showString"
+            android:text="Show Spell" />
+
+    </LinearLayout>
+
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
